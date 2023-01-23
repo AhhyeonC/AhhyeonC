@@ -5,7 +5,7 @@ I have been studying in Climate Analysis and Modeling Laboratory (CAM Lab) in Gw
 
 I am interested in Climate Change, especially about extreme events.
 
-I am uploading some practical codes for processing climate-related data. (from basic-level to professional-level)
+I am uploading some practical codes for processing climate-related data (from basic-level to professional-level).  
 Uploading is on going, and other codes will be uploaded soon.
 
 If you have any questions or suggestions, please feel free to e-mail me!
