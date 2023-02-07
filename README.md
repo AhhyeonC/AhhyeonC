@@ -1,7 +1,7 @@
 # Ahhyeon_Cho
 
 Hi, I'm Ahhyeo Cho. 
-I have been studying in Climate Analysis and Modeling Laboratory (CAM Lab) in Gwangju Institude of Science and Technology (GIST), Korea.
+I have been studying in Climate Analysis and Modeling Laboratory (CAM Lab) in Gwangju Institute of Science and Technology (GIST), Korea.
 
 I am interested in Climate Change, especially extreme events.
 
